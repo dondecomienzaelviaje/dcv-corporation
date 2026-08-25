@@ -7,7 +7,32 @@ import "../globals.css";
 
 export const metadata: Metadata = {
   title: "DCV Corporation",
-  description: "DCV Corporation"
+  description:
+    "DCV Corporation — un ecosistema de innovación, tecnología, educación y crecimiento.",
+  openGraph: {
+    title: "DCV Corporation",
+    description:
+      "DCV Corporation — un ecosistema de innovación, tecnología, educación y crecimiento.",
+    url: "https://dcvcorp.com",
+    siteName: "DCV Corporation",
+    images: [
+      {
+        url: "https://dcvcorp.com/social-preview.png",
+        width: 1200,
+        height: 630,
+        alt: "DCV Corporation",
+      },
+    ],
+    locale: "es_CO",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "DCV Corporation",
+    description:
+      "DCV Corporation — un ecosistema de innovación, tecnología, educación y crecimiento.",
+    images: ["https://dcvcorp.com/social-preview.png"],
+  },
 };
 
 export default async function LocaleLayout({
