@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+:root {
+  /* ================================
+     DCV CORPORATION — BRAND COLORS
+     ================================ */
+
+  --dcv-black: #050505;
+
+  --dcv-surface: #0d0d0d;
+  --dcv-surface-2: #141414;
+
+  --dcv-border: #262626;
+  --dcv-border-strong: #3a3a3a;
+
+  --dcv-gold: #c9a227;
+  --dcv-gold-light: #e0be55;
+  --dcv-gold-dark: #9a7615;
+
+  --dcv-white: #ffffff;
+  --dcv-text: #d4d4d4;
+  --dcv-text-muted: #8a8a8a;
+
+  /* Semantic tokens */
+
+  --background: var(--dcv-black);
+  --foreground: var(--dcv-white);
+
+  --surface: var(--dcv-surface);
+  --surface-secondary: var(--dcv-surface-2);
+
+  --border: var(--dcv-border);
+  --border-strong: var(--dcv-border-strong);
+
+  --primary: var(--dcv-gold);
+  --primary-hover: var(--dcv-gold-light);
+
+  --text-primary: var(--dcv-white);
+  --text-secondary: var(--dcv-text);
+  --text-muted: var(--dcv-text-muted);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+}

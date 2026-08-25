@@ -1,0 +1,186 @@
+{
+  "Navbar": {
+    "about": "Nosotros",
+    "ecosystem": "Ecosistema",
+    "roadmap": "Roadmap",
+    "contact": "Contacto",
+    "explore": "Explorar"
+  },
+
+  "Hero": {
+    "label": "DCV Corporation",
+    "title1": "Construimos",
+    "title2": "el ecosistema",
+    "title3": "del futuro.",
+    "description": "Integramos conocimiento, tecnología e innovación para crear empresas, plataformas y soluciones que generan valor sostenible.",
+    "explore": "Explorar ecosistema",
+    "about": "Conocer DCV",
+    "building": "Visión • Conocimiento • Tecnología"
+  },
+
+  "Identity": {
+    "label": "Nuestra identidad",
+    "title1": "Construimos pensando",
+    "title2": "en décadas.",
+    "paragraph1": "DCV Corporation desarrolla empresas, plataformas y soluciones que integran conocimiento, tecnología e innovación para generar valor sostenible.",
+    "paragraph2": "No construimos productos aislados. Construimos un ecosistema donde cada componente fortalece a los demás y contribuye a una visión común.",
+    "drivers": "Lo que nos impulsa",
+    "philosophy": "Nuestra filosofía",
+
+    "pillars": {
+      "knowledge": {
+        "number": "01",
+        "title": "Conocimiento",
+        "description": "Documentamos, compartimos y convertimos el conocimiento en un activo estratégico de la organización."
+      },
+      "technology": {
+        "number": "02",
+        "title": "Tecnología",
+        "description": "Desarrollamos infraestructura y plataformas diseñadas para integrarse, evolucionar y escalar."
+      },
+      "innovation": {
+        "number": "03",
+        "title": "Innovación",
+        "description": "Creamos soluciones para necesidades reales y buscamos mejorar continuamente la forma en que las personas y organizaciones crecen."
+      }
+    },
+
+    "statement": "Pensamos en décadas. Construimos hoy."
+  },
+
+  "Ecosystem": {
+    "label": "Ecosistema",
+    "title": "Construimos un ecosistema conectado.",
+    "description": "Cada plataforma cumple una función específica y forma parte de una misma visión corporativa.",
+    "visit": "Visitar",
+    "comingSoon": "Próximamente",
+
+    "items": {
+      "id": {
+        "name": "DCV ID",
+        "category": "IDENTIDAD",
+        "description": "Sistema de identidad digital del ecosistema DCV."
+      },
+      "portal": {
+        "name": "DCV Portal",
+        "category": "PLATAFORMA",
+        "description": "Centro de operaciones y administración del ecosistema DCV."
+      },
+      "shop": {
+        "name": "DCV Shop",
+        "category": "COMERCIO",
+        "description": "Plataforma de comercio y productos del ecosistema DCV."
+      },
+      "trading": {
+        "name": "DCV Trading",
+        "category": "INVERSIÓN",
+        "description": "Unidad enfocada en investigación, sistemas de trading, análisis de mercados, gestión de riesgo y mejora continua."
+      }
+    }
+  },
+
+  "Roadmap": {
+    "label": "Roadmap Corporativo",
+    "title": "Construir antes de escalar.",
+    "description": "Una hoja de ruta diseñada para construir la infraestructura, conectar el ecosistema y desarrollar soluciones con visión de largo plazo.",
+    "current": "Estamos aquí",
+    "statusTitle": "Estado actual: Integración",
+    "statusDescription": "DCV Corporation está conectando sus primeras plataformas para construir un ecosistema unificado. DCV ID y DCV Shop representan los primeros componentes activos de esta infraestructura.",
+
+    "phases": {
+      "foundation": {
+        "title": "Fundación",
+        "description": "Construcción de la identidad, infraestructura, arquitectura tecnológica y bases corporativas de DCV."
+      },
+      "integration": {
+        "title": "Integración",
+        "description": "Conectar las diferentes plataformas para que funcionen como un ecosistema y no como proyectos independientes."
+      },
+      "intelligence": {
+        "title": "Inteligencia",
+        "description": "Incorporar datos, automatización e inteligencia artificial para mejorar la operación y la toma de decisiones."
+      },
+      "expansion": {
+        "title": "Expansión",
+        "description": "Ampliar el ecosistema mediante nuevos productos, servicios, mercados y alianzas estratégicas."
+      },
+      "solutions": {
+        "title": "Soluciones",
+        "description": "Convertir el conocimiento y la infraestructura desarrollada por DCV en soluciones para personas y empresas."
+      }
+    }
+  },
+
+  "CTA": {
+    "label": "DCV Corporation",
+    "title": "El futuro se construye con visión, conocimiento y ejecución.",
+    "contact": "Contactar"
+  },
+
+  "Contact": {
+    "label": "Contacto",
+    "title": "Hablemos sobre el futuro.",
+    "description": "Si quieres conocer DCV Corporation, explorar una alianza, hablar sobre nuestro ecosistema o simplemente ponerte en contacto con nosotros, estamos aquí para escucharte.",
+
+    "form": {
+      "title": "Envíanos un mensaje",
+      "description": "Completa el formulario y cuéntanos cómo podemos ayudarte.",
+      "name": "Nombre completo",
+      "namePlaceholder": "Tu nombre completo",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@email.com",
+      "subject": "Asunto",
+      "subjectPlaceholder": "¿En qué podemos ayudarte?",
+      "message": "Mensaje",
+      "messagePlaceholder": "Escribe tu mensaje...",
+      "submit": "Enviar mensaje"
+    },
+
+    "info": {
+      "label": "Información de contacto",
+      "title": "Conectemos.",
+      "description": "Estamos abiertos a conversaciones sobre proyectos, alianzas, tecnología y nuevas oportunidades dentro del ecosistema DCV.",
+      "emailLabel": "Correo electrónico",
+      "responseLabel": "Tiempo de respuesta",
+      "response": "Responderemos tu mensaje tan pronto como sea posible.",
+      "helpLabel": "¿En qué podemos ayudarte?",
+
+      "items": {
+        "ecosystem": "Ecosistema DCV",
+        "partnerships": "Alianzas comerciales",
+        "technology": "Tecnología y plataformas",
+        "projects": "Proyectos y oportunidades",
+        "general": "Consultas generales"
+      }
+    },
+
+    "back": "Volver al inicio"
+  },
+
+  "Footer": {
+    "description": "Construimos un ecosistema de empresas, plataformas y productos conectados por una visión común de crecimiento, conocimiento y tecnología.",
+    "tagline": "Construyendo el ecosistema del futuro.",
+
+    "ecosystem": {
+      "title": "Ecosistema"
+    },
+
+    "company": {
+      "title": "Corporación",
+      "about": "Nosotros",
+      "ecosystem": "Ecosistema",
+      "roadmap": "Roadmap",
+      "contact": "Contacto"
+    },
+    "social": {
+  "title": "Redes"
+},
+"contact": {
+  "title": "Contacto",
+  "whatsapp": "WhatsApp"
+},
+
+    "copyright": "© 2026 DCV Corporation. Todos los derechos reservados.",
+    "builtBy": "Desarrollado por DCV Corporation"
+  }
+}
