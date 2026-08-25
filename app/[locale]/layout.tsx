@@ -13,11 +13,11 @@ export const metadata: Metadata = {
     title: "DCV Corporation",
     description:
       "DCV Corporation — un ecosistema de innovación, tecnología, educación y crecimiento.",
-    url: "https://dcvcorp.com",
+    url: "https://www.dcvcorp.com",
     siteName: "DCV Corporation",
     images: [
       {
-        url: "https://dcvcorp.com/social-preview.png",
+        url: "https://www.dcvcorp.com/social-preview.png",
         width: 1200,
         height: 630,
         alt: "DCV Corporation",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "DCV Corporation",
     description:
       "DCV Corporation — un ecosistema de innovación, tecnología, educación y crecimiento.",
-    images: ["https://dcvcorp.com/social-preview.png"],
+    images: ["https://www.dcvcorp.com/social-preview.png"],
   },
 };
 
